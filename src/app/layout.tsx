@@ -12,7 +12,6 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-
 export const metadata: Metadata = {
   title: "Peruzi Salama - Advanced URL Security Analysis",
   description: "Comprehensive URL security analysis tool that helps you verify the safety of web links before visiting them.",
